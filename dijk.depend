@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1654458743 source:/home/arash/Code/codeblocks/dijk/main.cpp
+	<iostream>
+	<vector>
+	<utility>
+	<optional>
+	<unordered_map>
+	<queue>
+	<map>
+	<tuple>
+	<functional>
+	<algorithm>
+	<initializer_list>
+	<Dijkstra_graph.h>
+
+1654500428 source:/home/arash/Code/codeblocks/dijk/src/Dijkstra_graph.cpp
+	"Dijkstra_graph.h"
+
+1654500428 /home/arash/Code/codeblocks/dijk/include/Dijkstra_graph.h
+	<iostream>
+	<algorithm>
+	<functional>
+	<vector>
+	<optional>
+	<map>
+
